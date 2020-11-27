@@ -94,7 +94,7 @@ echo -e "     |$Red             ███████╗██║  ██║█�
 sleep 0.1
 echo -e "     |$Red             ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝             $Yellow |"  
 sleep 0.1
-echo -e "     |$Red              \e[1;37m  Buy Me A Coffe: patreon.com/zatiel                $Yellow |"
+echo -e "     |$Red              \e[1;37m  Maxter915              $Yellow |"
 sleep 0.1
 echo -e $Cyan   "    +${Yellow}-------------------------------------------------------------------${Cyan}+${Yellow}"
 sleep 0.1
