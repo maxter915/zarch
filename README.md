@@ -12,10 +12,7 @@ Dependencies
 
 And some commands in automatic way to do its job i hope you like my tool.
 
-## Preview
-[![Hentai-1.png](https://i.postimg.cc/0Qh7SSgZ/Hentai-1.png)]
-[![Hentai-2.png](https://i.postimg.cc/R0Dtrt09/Hentai-2.png)]
-[![Hentai-3.png](https://i.postimg.cc/HnQ87P9s/Hentai-3.png)]
+
 
 ### Features
 
@@ -57,9 +54,6 @@ GIVE ME A TAARGET
     - [X] ./zarch.sh  or  bash zarch.sh
 ```
 
-# Issues will be fixed asap. Pull Request Welcomed
-https://github.com/callmezatiel/zarch/issues
 
-## Buy me a coffee
-<a href="https://www.paypal.me/zatiel"><img src="https://img.shields.io/badge/don-paypal-blue"></a> <a href="https://www.patreon.com/zatiel"><img src="https://img.shields.io/badge/don-patreon-ff69b4"> 
+
 
